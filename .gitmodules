@@ -1,0 +1,6 @@
+[submodule "organization"]
+	path = organization
+	url = https://github.com/cmudrc/idetc-ai-adoption-paper.git
+[submodule "vehicle"]
+	path = vehicle
+	url = https://github.com/cmudrc/av-social-trust.git
